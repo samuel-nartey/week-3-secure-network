@@ -1,6 +1,6 @@
 # Secure Network Architecture on AWS with Bastion Host
 
-![Architecture Diagram](Week-3-Secure-Network/diagrams/BASHION-ARCHITECTURE.png)
+![Architecture Diagram](Week-3-Secure-network/diagrams/BASHION-ARCHITECTURE.png)
 
 > **Note:** For the purposes of this project, the architecture was deployed in a single Availability Zone to simplify testing and visualization. In a production-grade or enterprise environment, this setup would be distributed across multiple Availability Zones for high availability and fault tolerance.
 
